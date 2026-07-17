@@ -10,6 +10,7 @@ everything on a live dark-mode dashboard that refreshes every 3 seconds.
 AutoHealAI v2 is an AI-powered AIOps platform that continuously monitors cloud infrastructure, predicts failures before they occur using ensemble machine learning models, identifies probable root causes, recommends recovery actions, and visualizes everything through a real-time dashboard.
 
 The system combines machine learning, explainable AI, FastAPI, Next.js, and system monitoring into an end-to-end self-healing infrastructure monitoring solution.
+
 ---
 
 ## Features
